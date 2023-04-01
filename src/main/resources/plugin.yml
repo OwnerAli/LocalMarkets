@@ -1,0 +1,4 @@
+name: Local Markets
+version: '${project.version}'
+main: me.ogali.localmarkets.LocalMarkets
+api-version: 1.19
